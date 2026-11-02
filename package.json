@@ -1,0 +1,11 @@
+{
+  "name": "department-directory",
+  "version": "1.0.0",
+  "description": "A simple department directory with an HTML, CSS, and JavaScript frontend and SQLite backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {}
+}
